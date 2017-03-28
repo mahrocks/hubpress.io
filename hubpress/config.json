@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "username": "mahrocks",
+    "repositoryName": "mahrocks.github.io",
+    "branch": "master"
+  },
+  "theme": {
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://mahrocks.github.io",
+    "hubpress": "https://mahrocks.github.io",
+    "theme": "//mahrocks.github.io/themes/casper",
+    "images": "https://mahrocks.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
+  }
+}
