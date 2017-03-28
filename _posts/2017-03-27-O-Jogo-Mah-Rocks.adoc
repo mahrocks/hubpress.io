@@ -1,0 +1,21 @@
+
+= O Jogo - Mah Rocks!
+:hp-images: https://mahrocks.github.io/images/logomahrocks.png
+:published_at: 2017-03-27
+:hp-tags: MahRocks!, unity3D , UFRJ
+:linkattrs:
+
+Mah Rocks! é uma proposta de um jogo em 3D para disciplina de Animação e jogos (COS600) da UFRJ, apresentada pelos alunos https://github.com/leonardostsouza[Leonardo Souza, window="_blank"], https://github.com/maasouza[Marcos Filho, window="_blank"] e https://github.com/phasath[Raphael Sathler, window="_blank"]. 
+
+*  Download da https://mahrocks.github.io/files/mahrocks.pdf[apresentação, window="_blank"]
+
+
+A história gira em torno de Mah Rouquinho, o guitarrista da banda The Blue Screen of Death que acordou no deserto do Marrocos após o avião da banda que seguia para uma turnê cair.
+Mah Rouquinho agora tem que recuperar os instrumentos dos outros integrantes da banda para que possam realizar a turnê.
+
+Ele não tem ideia do que o aguarda no deserto, mas tem certeza que de garganta seca ele não conseguirá salvar os instrumentos, então ele também deverá ir em busca de sua bebida favorita, o Chopp Swhey, para conseguir sobreviver ao deserto escaldante e salvar a turnê de sua banda!
+
+
+
+
+
