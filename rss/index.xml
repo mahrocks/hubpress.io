@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://mahrocks.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 28 Mar 2017 04:38:49 GMT</lastBuildDate><atom:link href="https://mahrocks.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://mahrocks.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 28 Mar 2017 04:55:32 GMT</lastBuildDate><atom:link href="https://mahrocks.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[O Jogo - Mah Rocks!]]></title><description><![CDATA[<div class="paragraph">
+<p>Mah Rocks! é uma proposta de um jogo em 3D para disciplina de Animação e jogos (COS600) da UFRJ, apresentada pelos alunos <a href="https://github.com/leonardostsouza" target="_blank">Leonardo Souza</a>, <a href="https://github.com/maasouza" target="_blank">Marcos Filho</a> e <a href="https://github.com/phasath" target="_blank">Raphael Sathler</a>.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Download da <a href="https://mahrocks.github.io/files/mahrocks.pdf" target="_blank">apresentação</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>A história gira em torno de Mah Rouquinho, o guitarrista da banda The Blue Screen of Death que acordou no deserto do Marrocos após o avião da banda que seguia para uma turnê cair.
+Mah Rouquinho agora tem que recuperar os instrumentos dos outros integrantes da banda para que possam realizar a turnê.</p>
+</div>
+<div class="paragraph">
+<p>Ele não tem ideia do que o aguarda no deserto, mas tem certeza que de garganta seca ele não conseguirá salvar os instrumentos, então ele também deverá ir em busca de sua bebida favorita, o Chopp Swhey, para conseguir sobreviver ao deserto escaldante e salvar a turnê de sua banda!</p>
+</div>]]></description><link>https://mahrocks.github.io/2017/03/27/O-Jogo-Mah-Rocks.html</link><guid isPermaLink="true">https://mahrocks.github.io/2017/03/27/O-Jogo-Mah-Rocks.html</guid><category><![CDATA[MahRocks!]]></category><category><![CDATA[unity3D]]></category><category><![CDATA[UFRJ]]></category><dc:creator><![CDATA[Mah Rocks!]]></dc:creator><pubDate>Mon, 27 Mar 2017 00:00:00 GMT</pubDate></item></channel></rss>
