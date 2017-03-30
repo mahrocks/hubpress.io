@@ -15,7 +15,7 @@ Nessa semana de trabalho nós focamos no planejamento do mapa e da UI do jogo.
 Depois de algumas tentativas, chegamos nesse mapa da imagem abaixo.
 
 .Ideia de mapa
-image::Mapa1.jpg[Mapa1, 400, 400, link="https://mahrocks.github.io/images/mapa1.jpg"]
+image::mapa1.jpg[Ideia do mapa]
 
 Nele definimos alguns locais que denominamos de ponto de interesse. Nesses locais, o jogador poderá encontrar recompensas(Chopp), monstros ou até, o instrumento musical, item necessário para passar de fase.
 
@@ -24,14 +24,14 @@ Entretanto, após discutirmos as possibilidades do mapa, chegamos a conclusão q
 Então, depois outras tentativas, e com uma inspiração à lá Slender, chegamos a um mapa que bateu com nossas ideias, conforme pode ser visto na figura 2.
 
 .Mapa escolhido
-image::Mapa_Final.jpg[Mapa_Final, 400, 400, link="https://mahrocks.github.io/images/mapa2.jpg"]
+image::mapa2.jpg[Mapa_Final, 400, 600, link="https://mahrocks.github.io/images/mapa2.jpg"]
 
 Também fizemos alguns esboços quanto ao UI que deveria ser usado, e escolhemos a última.
 
-image::UI1.jpg[UI1, 400, 400, link="https://mahrocks.github.io/images/u1.jpg"]
-image::UI2.jpg[UI2, 400, 400, link="https://mahrocks.github.io/images/u2.jpg"]
+image::ui1.jpg[UI1, 400, 300, link="https://mahrocks.github.io/images/u1.jpg"]
+image::ui2.jpg[UI2, 400, 300, link="https://mahrocks.github.io/images/u2.jpg"]
 .Ideias dos UIs
-image::UI3.jpg[UI3, 400, 400, link="https://mahrocks.github.io/images/u3.jpg"]
+image::ui3.jpg[UI3, 400, 300, link="https://mahrocks.github.io/images/u3.jpg"]
 
 
 
