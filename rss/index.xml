@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://mahrocks.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 06 Apr 2017 18:30:04 GMT</lastBuildDate><atom:link href="https://mahrocks.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Week 2 - Player and Camera Controller]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://mahrocks.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 06 Apr 2017 18:45:36 GMT</lastBuildDate><atom:link href="https://mahrocks.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Week 2 - Player and Camera Controller]]></title><description><![CDATA[<div class="paragraph">
 <p>Essa semana focamos na criação do modelo tridimensional do mapa e na implementação do controle de movimento jogador utilizando o teclado e o controle da camera utilizando o mouse</p>
 </div>
 <div id="img-Player" class="imageblock">
@@ -6,7 +6,52 @@
 <img src="https://mahrocks.github.io/images/player.gif" alt="Player">
 </div>
 <div class="title">Figure 1. Protótipo</div>
-</div>]]></description><link>https://mahrocks.github.io/2017/04/06/Week-2-Player-and-Camera-Controller.html</link><guid isPermaLink="true">https://mahrocks.github.io/2017/04/06/Week-2-Player-and-Camera-Controller.html</guid><dc:creator><![CDATA[Mah Rocks!]]></dc:creator><pubDate>Thu, 06 Apr 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[O Jogo - Mah Rocks!]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>https://mahrocks.github.io/2017/04/06/Week-2-Player-and-Camera-Controller.html</link><guid isPermaLink="true">https://mahrocks.github.io/2017/04/06/Week-2-Player-and-Camera-Controller.html</guid><dc:creator><![CDATA[Mah Rocks!]]></dc:creator><pubDate>Thu, 06 Apr 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Week 1 - Mapa e UI]]></title><description><![CDATA[<div class="paragraph">
+<p>Nessa semana de trabalho nós focamos no planejamento do mapa e da UI do jogo.</p>
+</div>
+<div class="paragraph">
+<p>Depois de algumas tentativas, chegamos nesse mapa da imagem abaixo.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://mahrocks.github.io/images/mapa1.jpg" alt="Ideia do mapa">
+</div>
+<div class="title">Figure 1. Ideia de mapa</div>
+</div>
+<div class="paragraph">
+<p>Nele definimos alguns locais que denominamos de ponto de interesse. Nesses locais, o jogador poderá encontrar recompensas(Chopp), monstros ou até, o instrumento musical, item necessário para passar de fase.</p>
+</div>
+<div class="paragraph">
+<p>Entretanto, após discutirmos as possibilidades do mapa, chegamos a conclusão que um mapa maior, e sem mudança de fase nos aproximaria melhor do nosso objetivo, que é um jogo survival.</p>
+</div>
+<div class="paragraph">
+<p>Então, depois outras tentativas, e com uma inspiração à lá Slender, chegamos a um mapa que bateu com nossas ideias, conforme pode ser visto na figura 2.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="https://mahrocks.github.io/images/mapa2.jpg"><img src="https://mahrocks.github.io/images/mapa2.jpg" alt="Mapa_Final" width="400" height="600"></a>
+</div>
+<div class="title">Figure 2. Mapa escolhido</div>
+</div>
+<div class="paragraph">
+<p>Também fizemos alguns esboços quanto ao UI que deveria ser usado, e escolhemos a última.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="https://mahrocks.github.io/images/u1.jpg"><img src="https://mahrocks.github.io/images/ui1.jpg" alt="UI1" width="400" height="300"></a>
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="https://mahrocks.github.io/images/u2.jpg"><img src="https://mahrocks.github.io/images/ui2.jpg" alt="UI2" width="400" height="300"></a>
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<a class="image" href="https://mahrocks.github.io/images/u3.jpg"><img src="https://mahrocks.github.io/images/ui3.jpg" alt="UI3" width="400" height="300"></a>
+</div>
+<div class="title">Figure 3. Ideias dos UIs</div>
+</div>]]></description><link>https://mahrocks.github.io/2017/03/30/Week-1-Mapa-e-UI.html</link><guid isPermaLink="true">https://mahrocks.github.io/2017/03/30/Week-1-Mapa-e-UI.html</guid><category><![CDATA[week]]></category><category><![CDATA[unity3d]]></category><category><![CDATA[mapa]]></category><category><![CDATA[ui]]></category><dc:creator><![CDATA[Mah Rocks!]]></dc:creator><pubDate>Thu, 30 Mar 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[O Jogo - Mah Rocks!]]></title><description><![CDATA[<div class="paragraph">
 <p>Mah Rocks! é uma proposta de um jogo em 3D para disciplina de Animação e jogos (COS600) da UFRJ, apresentada pelos alunos <a href="https://github.com/leonardostsouza" target="_blank">Leonardo Souza</a>, <a href="https://github.com/maasouza" target="_blank">Marcos Filho</a> e <a href="https://github.com/phasath" target="_blank">Raphael Sathler</a>.</p>
 </div>
 <div class="ulist">
