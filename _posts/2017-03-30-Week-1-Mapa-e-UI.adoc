@@ -32,10 +32,3 @@ image::ui1.jpg[UI1, 400, 300, link="https://mahrocks.github.io/images/u1.jpg"]
 image::ui2.jpg[UI2, 400, 300, link="https://mahrocks.github.io/images/u2.jpg"]
 .Ideias dos UIs
 image::ui3.jpg[UI3, 400, 300, link="https://mahrocks.github.io/images/u3.jpg"]
-
-
-
-
-
-
-
