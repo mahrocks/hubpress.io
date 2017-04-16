@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://mahrocks.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 16 Apr 2017 13:24:28 GMT</lastBuildDate><atom:link href="https://mahrocks.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Week 3 - Simple enemy AI and Spawn Areas]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://mahrocks.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 16 Apr 2017 13:28:35 GMT</lastBuildDate><atom:link href="https://mahrocks.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Week 3 - Simple enemy AI and Spawn Areas]]></title><description><![CDATA[<div class="paragraph">
 <p>Essa semana desenvolvemos uma IA simples que apenas segue o jogador.</p>
 </div>
 <div class="paragraph">
@@ -11,7 +11,7 @@
 <div class="title">Figure 1. Spawn Area</div>
 </div>
 <div class="paragraph">
-<p>&lt;br&gt;Aqui podemos ver o resultado da semana com um esboço da UI e com uma melhoria no controle da câmera.</p>
+<p>Aqui podemos ver o resultado da semana com um esboço da UI e com uma melhoria no controle da câmera.</p>
 </div>
 <div id="img-enemy" class="imageblock">
 <div class="content">
@@ -20,7 +20,7 @@
 <div class="title">Figure 2. Inimigos IA</div>
 </div>
 <div class="paragraph">
-<p>&lt;br&gt;Também tentamos criar a animação de andar do jogador diretamente no unity mas não tivemos muito sucesso, por isso removemos ela e para próxima semana tentaremos trazer a animação feita pelo <em>Blender</em>.</p>
+<p>Também tentamos criar a animação de andar do jogador diretamente no unity mas não tivemos muito sucesso, por isso removemos ela e para próxima semana tentaremos trazer a animação feita pelo <em>Blender</em>.</p>
 </div>]]></description><link>https://mahrocks.github.io/2017/04/13/Week-3-Simple-enemy-AI-and-Spawn-Areas.html</link><guid isPermaLink="true">https://mahrocks.github.io/2017/04/13/Week-3-Simple-enemy-AI-and-Spawn-Areas.html</guid><dc:creator><![CDATA[Mah Rocks!]]></dc:creator><pubDate>Thu, 13 Apr 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Week 2 - Player and Camera Controller]]></title><description><![CDATA[<div class="paragraph">
 <p>Essa semana focamos na criação do modelo tridimensional do mapa e na implementação do controle de movimento jogador utilizando o teclado e o controle da camera utilizando o mouse</p>
 </div>
