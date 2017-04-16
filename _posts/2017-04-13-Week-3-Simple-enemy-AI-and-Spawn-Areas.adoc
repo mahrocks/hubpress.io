@@ -15,17 +15,18 @@ Essa semana desenvolvemos uma IA simples que apenas segue o jogador.
 Criamos também um __Game Object__ que chamamos de __Spawn Area__, ele nada mais é que uma esfera de raio variável, com um script simples que verifica se o jogador está ou não dentro dela, e gera inimigos em pontos perto da borda da esfera num intervalo entre 1 e 3 segundos. Além disso o script aleatoriamente gera um inimigos perto do jogador. Vale acrescentar que os inimigos gerados dentro da área não devem seguir o jogador para fora dela, mas como não implementamos um IA mais avançada, eliminamos eles do mapa quando isso acontece.
 
 [#img-spawn]
-.Spawn Area
-image::area.png[Spawn-Area]  
-  
+.Spawn Area  
+image::area.png[Spawn-Area,600,400]	
 
-Aqui podemos ver o resultado da semana com um esboço da UI e com uma melhoria no controle da câmera.
+
+<br>Aqui podemos ver o resultado da semana com um esboço da UI e com uma melhoria no controle da câmera.
 
 [#img-enemy]
 .Inimigos IA 
-image::enemy.gif[Enemy]
+image::enemy.gif[Enemy,600,400]
 
-Também tentamos criar a animação de andar do jogador diretamente no unity mas não tivemos muito sucesso, por isso removemos ela e para próxima semana tentaremos trazer a animação feita pelo _Blender_. 
+
+<br>Também tentamos criar a animação de andar do jogador diretamente no unity mas não tivemos muito sucesso, por isso removemos ela e para próxima semana tentaremos trazer a animação feita pelo _Blender_. 
 
 
 
