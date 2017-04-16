@@ -19,14 +19,14 @@ Criamos também um __Game Object__ que chamamos de __Spawn Area__, ele nada mais
 image::area.png[Spawn-Area,600,400]	
 
 
-<br>Aqui podemos ver o resultado da semana com um esboço da UI e com uma melhoria no controle da câmera.
+Aqui podemos ver o resultado da semana com um esboço da UI e com uma melhoria no controle da câmera.
 
 [#img-enemy]
 .Inimigos IA 
 image::enemy.gif[Enemy,600,400]
 
 
-<br>Também tentamos criar a animação de andar do jogador diretamente no unity mas não tivemos muito sucesso, por isso removemos ela e para próxima semana tentaremos trazer a animação feita pelo _Blender_. 
+Também tentamos criar a animação de andar do jogador diretamente no unity mas não tivemos muito sucesso, por isso removemos ela e para próxima semana tentaremos trazer a animação feita pelo _Blender_. 
 
 
 
