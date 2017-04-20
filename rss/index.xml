@@ -1,31 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://mahrocks.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 20 Apr 2017 16:19:18 GMT</lastBuildDate><atom:link href="https://mahrocks.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Week 4 - Simple walk animation, UI updates and Damage taken]]></title><description><![CDATA[<div class="paragraph">
-<p>Como na semana passada não obtivemos sucesso com a animação do jogador, essa semana modelamos um personagem teste e criamos sua animação de andar utilizando o <em>Blender</em>.</p>
-</div>
-<div id="walk-gif" class="imageblock">
-<div class="content">
-<img src="https://mahrocks.github.io/images/walk.gif" alt="Walk-gif" width="600" height="400">
-</div>
-<div class="title">Figure 1. Animação de andar</div>
-</div>
-<div class="paragraph">
-<p>Realizamos também modificações nos <em>scripts</em> dos inimigos e do jogador, incluindo os elementos necessários para fazer o jogador tomar dano.
-Modificamos um pouco a UI para que ela pisque em vermelho sempre que o jogador sofrer dano e reduza o tamanho da barra de vida. Além disso, criamos uma <em>Death Screen</em>.</p>
-</div>
-<div id="damage-gif" class="imageblock">
-<div class="content">
-<img src="https://mahrocks.github.io/images/damage.gif" alt="Damage-gif" width="600" height="400">
-</div>
-<div class="title">Figure 2. Jogador sofrendo dano</div>
-</div>
-<div class="paragraph">
-<p>A criação do modelo de Mah Rouquinho também foi iniciada.</p>
-</div>
-<div id="player-img" class="imageblock">
-<div class="content">
-<img src="https://mahrocks.github.io/images/mahrouqinhoface.png" alt="Mah-rouquinho-preview" width="600" height="400">
-</div>
-<div class="title">Figure 3. Mah Rouquinho</div>
-</div>]]></description><link>https://mahrocks.github.io/2017/04/20/Week-4-Simple-walk-animation-UI-updates-and-Damage-taken.html</link><guid isPermaLink="true">https://mahrocks.github.io/2017/04/20/Week-4-Simple-walk-animation-UI-updates-and-Damage-taken.html</guid><dc:creator><![CDATA[Mah Rocks!]]></dc:creator><pubDate>Thu, 20 Apr 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Week 3 - Simple enemy AI and Spawn Areas]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://mahrocks.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 20 Apr 2017 16:26:51 GMT</lastBuildDate><atom:link href="https://mahrocks.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Week 3 - Simple enemy AI and Spawn Areas]]></title><description><![CDATA[<div class="paragraph">
 <p>Essa semana desenvolvemos uma IA simples que apenas segue o jogador.</p>
 </div>
 <div class="paragraph">
