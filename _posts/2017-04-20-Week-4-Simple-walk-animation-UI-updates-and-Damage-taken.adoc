@@ -27,7 +27,7 @@ image::damage.gif[Damage-gif,600,400]
 A criação do modelo de Mah Rouquinho também foi iniciada.
 [#player-img]
 .Mah Rouquinho 
-image::mahrouqinhoface.png[Mah-rouquinho-preview,600,400]	
+image::mahrouquinhoface.png[Mah-rouquinho-preview,600,400]	
 
 
 
