@@ -1,0 +1,34 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+= Week 4 - Simple walk animation, UI updates and Damage taken
+:published_at: 2017-04-20
+:linkattrs:
+
+
+
+Como na semana passada não obtivemos sucesso com a animação do jogador, essa semana modelamos um personagem teste e criamos sua animação de andar utilizando o __Blender__.
+
+[#walk-gif]
+.Animação de andar
+image::walk.gif[Walk-gif,600,400]	
+
+
+Realizamos também modificações nos _scripts_ dos inimigos e do jogador, incluindo os elementos necessários para fazer o jogador tomar dano.
+Modificamos um pouco a UI para que ela pisque em vermelho sempre que o jogador sofrer dano e reduza o tamanho da barra de vida. Além disso, criamos uma __Death Screen__.
+[#damage-gif]
+.Jogador sofrendo dano
+image::damage.gif[Damage-gif,600,400]	
+
+A criação do modelo de Mah Rouquinho também foi iniciada.
+[#player-img]
+.Mah Rouquinho 
+image::mahrouqinhoface.png[Mah-rouquinho-preview,600,400]	
+
+
+
+
