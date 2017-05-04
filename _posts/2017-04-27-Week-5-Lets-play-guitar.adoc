@@ -30,6 +30,7 @@ image::nota.png[ammunition2-png,250,400]
 
 Criamos um __script__ que permite que as notas sejam atiradas pela guitarra e que toque som quando isso acontece, mas elas ainda não tiram vida dos inimigos.
 
+
 [#anim1-]
 .Guitarra Atirando
 image::guitarplay.gif[guitarplay-gif,600,400]
