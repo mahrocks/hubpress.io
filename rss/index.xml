@@ -1,39 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://mahrocks.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 04 May 2017 13:38:50 GMT</lastBuildDate><atom:link href="https://mahrocks.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Week 5 - Let's play guitar!]]></title><description><![CDATA[<div class="paragraph">
-<p>Essa semana adicionamos a guitarra ao jogador para fazer alguns testes de como seria o ataque feito por ele, além disso modelamos umas notas musicais para servir como munição e terminamos o modelo final do jogador, porém ele ainda não é animado.</p>
-</div>
-<div id="player-model" class="imageblock">
-<div class="content">
-<img src="https://mahrocks.github.io/images/playermodel.png" alt="modelplayer-png" width="250" height="500">
-</div>
-<div class="title">Figure 1. Modelo final do jogador</div>
-</div>
-<div id="guitar-model" class="imageblock">
-<div class="content">
-<img src="https://mahrocks.github.io/images/guitar.png" alt="guitar-png" width="600" height="400">
-</div>
-<div class="title">Figure 2. Guitarra</div>
-</div>
-<div id="ammo1" class="imageblock">
-<div class="content">
-<img src="https://mahrocks.github.io/images/nota1.png" alt="ammunition1-png" width="250" height="400">
-</div>
-<div class="title">Figure 3. Munição 1</div>
-</div>
-<div id="ammo2" class="imageblock">
-<div class="content">
-<img src="https://mahrocks.github.io/images/nota.png" alt="ammunition2-png" width="250" height="400">
-</div>
-<div class="title">Figure 4. Munição 2</div>
-</div>
-<div class="paragraph">
-<p>Criamos um <em>script</em> que permite que as notas sejam atiradas pela guitarra e que toque som quando isso acontece, mas elas ainda não tiram vida dos inimigos.</p>
-</div>
-<div id="anim1-" class="imageblock">
-<div class="content">
-<img src="https://mahrocks.github.io/images/guitarplay.gif" alt="guitarplay-gif" width="600" height="400">
-</div>
-<div class="title">Figure 5. Guitarra Atirando</div>
-</div>]]></description><link>https://mahrocks.github.io/2017/04/27/Week-5-Lets-play-guitar.html</link><guid isPermaLink="true">https://mahrocks.github.io/2017/04/27/Week-5-Lets-play-guitar.html</guid><dc:creator><![CDATA[Mah Rocks!]]></dc:creator><pubDate>Thu, 27 Apr 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Week 4 - Simple walk animation, UI updates and Damage taken]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://mahrocks.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 04 May 2017 14:01:40 GMT</lastBuildDate><atom:link href="https://mahrocks.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Week 4 - Simple walk animation, UI updates and Damage taken]]></title><description><![CDATA[<div class="paragraph">
 <p>Como na semana passada não obtivemos sucesso com a animação do jogador, essa semana modelamos um personagem teste e criamos sua animação de andar utilizando o <em>Blender</em>.</p>
 </div>
 <div id="walk-gif" class="imageblock">
