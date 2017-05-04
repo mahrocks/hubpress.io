@@ -1,0 +1,35 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+= Week 5 - Let's play guitar!
+:published_at: 2017-04-27
+:linkattrs:
+
+
+Essa semana adicionamos a guitarra ao jogador para fazer alguns testes de como seria o ataque feito por ele, além disso modelamos umas notas musicais para servir como munição e terminamos o modelo final do jogador, porém ele ainda não é animado.
+
+[#player-model]
+.Modelo final do jogador
+image::playermodel.png[modelplayer-png,250,500]	
+
+[#guitar-model]
+.Guitarra
+image::guitar.png[guitar-png,600,400]
+
+[#ammo1]
+.Munição 1
+image::nota1.png[ammunition1-png,250,400]	
+
+[#ammo2]
+.Munição 2
+image::nota.png[ammunition2-png,250,400]
+
+Criamos um __script__ que permite que as notas sejam atiradas pela guitarra e que toque som quando isso acontece, mas elas ainda não tiram vida dos inimigos.
+
+[#anim1-]
+.Guitarra Atirando
+image::guitarplay.gif[guitarplay-gif,600,400]
