@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://mahrocks.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 04 May 2017 16:18:17 GMT</lastBuildDate><atom:link href="https://mahrocks.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Week 5 - Let's play guitar!]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://mahrocks.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 29 May 2017 13:05:58 GMT</lastBuildDate><atom:link href="https://mahrocks.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Demo - Mah Rocks!]]></title><description><![CDATA[<div class="paragraph">
+<p>Semana passada ocorreu a primeira apresentação do protótipo do jogo.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Download da <a href="https://mahrocks.github.io/files/mahrocks_demo.rar" target="_blank">Demo</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Esse versão acima é mais nova que a apresentada, ela ja conta com o menu e os modelos finais do jogador e inimigos.</p>
+</div>
+<div class="paragraph">
+<p>Mah Rocks! é uma proposta de um jogo em 3D para disciplina de Animação e jogos (COS600) da UFRJ, apresentada pelos alunos <a href="https://github.com/leonardostsouza" target="_blank">Leonardo Souza</a>, <a href="https://github.com/maasouza" target="_blank">Marcos Filho</a> e <a href="https://github.com/phasath" target="_blank">Raphael Sathler</a>.</p>
+</div>]]></description><link>https://mahrocks.github.io/2017/05/29/Demo-Mah-Rocks.html</link><guid isPermaLink="true">https://mahrocks.github.io/2017/05/29/Demo-Mah-Rocks.html</guid><category><![CDATA[MahRocks!]]></category><category><![CDATA[unity3D]]></category><category><![CDATA[UFRJ]]></category><category><![CDATA[Demo]]></category><dc:creator><![CDATA[Mah Rocks!]]></dc:creator><pubDate>Mon, 29 May 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Week 5 - Let's play guitar!]]></title><description><![CDATA[<div class="paragraph">
 <p>Essa semana adicionamos a guitarra ao jogador para fazer alguns testes de como seria o ataque feito por ele, além disso modelamos umas notas musicais para servir como munição e terminamos o modelo final do jogador, porém ele ainda não é animado.</p>
 </div>
 <div id="player-model" class="imageblock">
