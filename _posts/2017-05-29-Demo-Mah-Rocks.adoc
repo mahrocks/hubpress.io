@@ -1,0 +1,18 @@
+
+= Demo - Mah Rocks!
+:hp-images: https://mahrocks.github.io/images/logomahrocks.png
+:published_at: 2017-05-29
+:hp-tags: MahRocks!, unity3D , UFRJ,Demo
+:linkattrs:
+
+Semana passada ocorreu a primeira apresentação do protótipo do jogo.
+
+*  Download da https://mahrocks.github.io/files/mahrocks_demo.rar[Demo, window="_blank"]
+
+Esse versão acima é mais nova que a apresentada, ela ja conta com o menu e os modelos finais do jogador e inimigos.
+
+Mah Rocks! é uma proposta de um jogo em 3D para disciplina de Animação e jogos (COS600) da UFRJ, apresentada pelos alunos https://github.com/leonardostsouza[Leonardo Souza, window="_blank"], https://github.com/maasouza[Marcos Filho, window="_blank"] e https://github.com/phasath[Raphael Sathler, window="_blank"]. 
+
+
+
+
