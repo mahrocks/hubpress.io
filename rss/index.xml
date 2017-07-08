@@ -1,27 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://mahrocks.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 08 Jul 2017 20:21:29 GMT</lastBuildDate><atom:link href="https://mahrocks.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Gameplay - Mah Rocks!]]></title><description><![CDATA[<div class="paragraph">
-<p>Na ultima semana ocorreu a entrega final dos jogos do curso.</p>
-</div>
-<div class="paragraph">
-<p>Com isso apresentamos a versão final do jogo</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>Repositório do jogo: <a href="https://github.com/mahrocks/Game" target="_blank">Mahrocks!</a></p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p>Confira o <em>Gameplay</em></p>
-</div>
-<div class="videoblock">
-<div class="content">
-<iframe width="640" height="480" src="https://www.youtube.com/embed/txPQhWTKxck?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
-</div>
-<div class="paragraph">
-<p>Mah Rocks! é um jogo em 3D feito para disciplina de Animação e jogos (COS600) da UFRJ, desenvolvidos pelos alunos <a href="https://github.com/leonardostsouza" target="_blank">Leonardo Souza</a>, <a href="https://github.com/maasouza" target="_blank">Marcos Filho</a> e <a href="https://github.com/phasath" target="_blank">Raphael Sathler</a>.</p>
-</div>]]></description><link>https://mahrocks.github.io/2017/07/07/Gameplay-Mah-Rocks.html</link><guid isPermaLink="true">https://mahrocks.github.io/2017/07/07/Gameplay-Mah-Rocks.html</guid><category><![CDATA[MahRocks!]]></category><category><![CDATA[unity3D]]></category><category><![CDATA[UFRJ]]></category><category><![CDATA[Gameplay]]></category><dc:creator><![CDATA[Mah Rocks!]]></dc:creator><pubDate>Fri, 07 Jul 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Demo - Mah Rocks!]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://mahrocks.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 08 Jul 2017 20:22:35 GMT</lastBuildDate><atom:link href="https://mahrocks.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Demo - Mah Rocks!]]></title><description><![CDATA[<div class="paragraph">
 <p>Semana passada ocorreu a primeira apresentação do protótipo do jogo.</p>
 </div>
 <div class="ulist">
