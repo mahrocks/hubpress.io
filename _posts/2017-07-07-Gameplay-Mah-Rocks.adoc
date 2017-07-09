@@ -11,9 +11,9 @@ Com isso apresentamos a versão final do jogo
 
 *  Repositório do jogo: https://github.com/mahrocks/Game[Mahrocks!, window="_blank"]
 
-Confira o __Gameplay__ 
+Confira o https://youtu.be/txPQhWTKxck[__Gameplay__, window="_blank"]
 
-video::txPQhWTKxck[youtube,width=640,height=480]
+video::https://mahrocks.github.io/files/gameplay.mp4[width=640,height=480]
 
 Mah Rocks! é um jogo em 3D feito para disciplina de Animação e jogos (COS600) da UFRJ, desenvolvidos pelos alunos https://github.com/leonardostsouza[Leonardo Souza, window="_blank"], https://github.com/maasouza[Marcos Filho, window="_blank"] e https://github.com/phasath[Raphael Sathler, window="_blank"]. 
 
